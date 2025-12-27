@@ -1,6 +1,6 @@
 Hi there 👋
 
-I’m Aman Pandey — a full-stack engineer who enjoys building scalable web systems and sharing what I learn along the way.
+I’m Aman Pandey  a full-stack engineer who enjoys building scalable web systems and sharing what I learn along the way.
 
 🔭 What I’m working on:
 Learning-driven side projects, system-focused experiments, and production-style builds using React, Next.js, Node.js, and modern backend architectures.
