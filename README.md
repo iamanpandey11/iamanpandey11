@@ -17,20 +17,6 @@ Full-stack development, React / Next.js, API design, backend logic, AWS deployme
 📫 How to reach me:
 
 LinkedIn: https://www.linkedin.com/in/iamanpandey11
+Twitter(X): https://x.com/iamanpandey11
 
-😄 Pronouns: He/Him
-
-⚡ Fun fact:
 I enjoy breaking complex systems into simple mental models.
-
-🛠 Tech Stack
-
-Frontend: React, Next.js, TypeScript, Tailwind CSS
-Backend: Node.js, Express
-Database: MongoDB, PostgreSQL
-Cloud: AWS (S3, EC2, RDS, Beanstalk, Amplify)
-Other: System design, clean architecture, AI/LLM exploration
-
-Make it more minimal or more bold
-
-Just say the word 🚀
